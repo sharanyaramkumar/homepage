@@ -1,0 +1,47 @@
+{
+  "squares": [
+    {
+      "name": "Fav's",
+      "links": [
+        { "name": "Google ", "url": "https://google.com" },
+        { "name": "Youtube", "url": "https://youtube.com" },
+        { "name": "Reddit", "url": "https://www.reddit.com" },
+        { "name": "Github", "url": "https://www.github.com" }
+      ]
+    },
+    {
+      "name": "Study",
+      "links": [
+        {
+          "name": "Moodle",
+          "url": "https://moodle.nec.edu.in/login/index.php"
+        },
+        { "name": "Udemy", "url": "http://udemy.com" },
+        { "name": "Guvi", "url": "http://guvi.in" },
+        { "name": "Code Radio", "url": "https://coderadio.freecodecamp.org/" }
+      ]
+    },
+    {
+      "name": "Social",
+      "links": [
+        { "name": "Facebook", "url": "https://facebook.com" },
+        { "name": "Instagram", "url": "https://instagram.com" },
+        { "name": "Whatsapp", "url": "https://web.whatsapp.com/" },
+        { "name": "r/unixporn", "url": "https://www.reddit.com/r/unixporn/" }
+      ]
+    },
+    {
+      "name": "Others",
+      "links": [
+        { "name": "Aur", "url": "https://aur.archlinux.org/" },
+        { "name": "Gmail", "url": "http://gmail.com/" },
+        { "name": "Nptel", "url": "https://swayam.gov.in/nc_details/NPTEL" },
+        { "name": "W3schools", "url": "https://www.w3schools.com/" }
+      ]
+    }
+  ],
+  "user": "Sharanya",
+  "disableMessage": false,
+  "disableDate": false,
+  "disableSearchBar": false
+}
